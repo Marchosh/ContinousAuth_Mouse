@@ -1,1 +1,3 @@
 #For poly bridge code anda dataset
+#Each of the python file is training a diffrent dataset for each user.
+#The dataset was already extracted in each of the trained model.
